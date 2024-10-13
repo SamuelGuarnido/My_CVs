@@ -35,6 +35,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/cv_angular/",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
